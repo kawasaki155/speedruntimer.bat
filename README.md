@@ -1,1 +1,1 @@
-Is there any reason to write README here? There is nothing to describe lol
+Is there any reason to write a README? There is nothing to describe here lol
